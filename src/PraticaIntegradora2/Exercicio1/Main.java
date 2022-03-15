@@ -1,4 +1,4 @@
-package PraticaIntegradora2;
+package PraticaIntegradora2.Exercicio1;
 
 
 public class Main {
